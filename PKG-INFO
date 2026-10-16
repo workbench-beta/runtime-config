@@ -1,0 +1,4 @@
+Metadata-Version: 1.0
+Name: nb-worker-utils
+Version: 1.2.0
+Summary: Lightweight worker utilities for distributed notebook environments
